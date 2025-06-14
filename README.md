@@ -21,4 +21,4 @@ pip install pygame
 ```
 ## Game: 
 
-![Alt text](result)
+![Alt text](result.png)
